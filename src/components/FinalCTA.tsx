@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 
 const FinalCTA = () => {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/521234567890?text=¡Hola! Quiero más información sobre los cachorros French Bulldog disponibles', '_blank');
+    window.open('https://wa.me/525530118305?text=¡Hola! Quiero más información sobre los cachorros French Bulldog disponibles', '_blank');
   };
 
   return (
