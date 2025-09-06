@@ -23,7 +23,8 @@ const FinalCTA = () => {
           
           <Button 
             onClick={handleWhatsAppClick}
-            className="btn-whatsapp-large text-2xl py-6 px-12 shadow-luxury hover:shadow-xl"
+            className="btn-whatsapp-large text-2xl py-6 px-12 hover:shadow-xl"
+            style={{ boxShadow: '0 20px 50px -10px hsl(215 68% 18% / 0.2)' }}
           >
             <MessageCircle className="w-8 h-8" />
             ¡Sí, Quiero Más Información!

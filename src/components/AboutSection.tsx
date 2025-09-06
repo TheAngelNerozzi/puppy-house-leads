@@ -11,7 +11,8 @@ const AboutSection = () => {
               <img 
                 src={founderPhoto} 
                 alt="Fundadora de Puppy House con cachorro"
-                className="w-full h-96 lg:h-[500px] object-cover rounded-2xl shadow-luxury"
+                className="w-full h-96 lg:h-[500px] object-cover rounded-2xl"
+                style={{ boxShadow: '0 20px 50px -10px hsl(215 68% 18% / 0.2)' }}
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-accent/20 to-transparent rounded-2xl"></div>
             </div>

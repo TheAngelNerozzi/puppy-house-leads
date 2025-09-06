@@ -29,7 +29,8 @@ const TestimonialsSection = () => {
         
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           {testimonials.map((testimonial) => (
-            <div key={testimonial.id} className="bg-white rounded-2xl p-8 shadow-luxury card-hover">
+            <div key={testimonial.id} className="bg-white rounded-2xl p-8 card-hover"
+                 style={{ boxShadow: '0 10px 30px -5px hsl(215 68% 18% / 0.1)' }}>
               {/* Stars */}
               <div className="flex gap-1 mb-4">
                 {[...Array(testimonial.rating)].map((_, i) => (
