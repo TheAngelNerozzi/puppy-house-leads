@@ -45,13 +45,14 @@ const Footer = () => {
               <MessageCircle className="w-5 h-5 lg:w-6 lg:h-6 text-accent-foreground group-hover:scale-110 transition-transform duration-300" />
             </a>
             <a 
-              href="#" 
+              href="https://www.facebook.com/share/19mwe3VGY9/" 
               className="group p-3 lg:p-4 bg-accent rounded-full hover:bg-accent/90 transition-all duration-300 hover:scale-110 hover:shadow-lg"
               aria-label="Síguenos en Facebook"
               style={{ boxShadow: '0 8px 25px -8px hsl(var(--accent) / 0.3)' }}
             >
               <Facebook className="w-5 h-5 lg:w-6 lg:h-6 text-accent-foreground group-hover:scale-110 transition-transform duration-300" />
             </a>
+            
           </div>
           
           {/* Copyright */}
