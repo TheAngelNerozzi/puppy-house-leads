@@ -17,7 +17,7 @@ const PuppyGallery = () => {
   ];
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/521234567890?text=Hola! Me gustaría preguntar por la disponibilidad de cachorros', '_blank');
+    window.open('https://wa.me/525530118305?text=Hola! Me gustaría preguntar por la disponibilidad de cachorros', '_blank');
   };
 
   return (
