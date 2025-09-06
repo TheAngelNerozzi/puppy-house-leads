@@ -4,7 +4,7 @@ import heroImage from '@/assets/hero-puppy.jpg';
 
 const HeroSection = () => {
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/521234567890?text=Hola! Me interesa conocer más sobre los cachorros de Puppy House', '_blank');
+    window.open('https://wa.me/525530118305?text=Hola! Me interesa conocer más sobre los cachorros de Puppy House', '_blank');
   };
 
   return (
