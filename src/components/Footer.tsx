@@ -57,7 +57,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="border-t border-primary-foreground/20 pt-6 lg:pt-8">
             <p className="text-primary-foreground/60 text-sm sm:text-base">
-              © 2024 Puppy House. Todos los derechos reservados.
+              © 2025 Puppy House. Todos los derechos reservados.
             </p>
             <p className="text-primary-foreground/60 text-xs sm:text-sm mt-2">
               Criadores registrados • México
