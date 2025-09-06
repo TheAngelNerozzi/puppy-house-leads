@@ -28,6 +28,10 @@ const AboutSection = () => {
                 que criamos recibe atención personalizada, amor incondicional y los mejores 
                 cuidados veterinarios.
               </p>
+
+               <p className="transform hover:scale-105 transition-transform duration-300 bg-primary-foreground/5 p-6 rounded-xl backdrop-blur-sm">
+                Puppy House cuenta con más de 22 años de experiencia en la crianza responsable de Bulldogs Franceses exóticos, desde 2004.
+              </p>
               
               <p className="transform hover:scale-105 transition-transform duration-300 bg-primary-foreground/5 p-6 rounded-xl backdrop-blur-sm">
                 Creemos que encontrar al compañero perfecto es una experiencia única, 
