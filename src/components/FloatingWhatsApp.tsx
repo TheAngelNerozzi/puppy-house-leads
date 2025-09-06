@@ -2,7 +2,7 @@ import { MessageCircle } from 'lucide-react';
 
 const FloatingWhatsApp = () => {
   const handleClick = () => {
-    window.open('https://wa.me/521234567890?text=Hola! Me interesa conocer más sobre Puppy House', '_blank');
+    window.open('https://wa.me/525530118305?text=Hola! Me interesa conocer más sobre Puppy House', '_blank');
   };
 
   return (
